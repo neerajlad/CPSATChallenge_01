@@ -1,0 +1,24 @@
+{
+	"imglogo": {
+		"DESKTOP_WEB": "xpath=.//a[@id='mpstkLogo']/img"
+	},
+	"icoTwitter": {
+		"DESKTOP_WEB": "xpath=.//i[@class='fa fa-twitter sky_blue']/.."
+	},
+	"lblShoppintItem": {
+		"DESKTOP_WEB": "id=lblNoCartItem"
+	},
+	"txtSearchItemBox": {
+		"DESKTOP_WEB": "id=txtsearch"
+	},
+	"btnsearch": {
+		"DESKTOP_WEB": "id=btnsearch"
+	},
+	"firstResultItem": {
+		"DESKTOP_WEB": "xpath=.//div[@id='book_list']//li[1]"
+	},
+	"btnAddToCart": {
+		"DESKTOP_WEB": "xpath=.//input[@id='ContentPlaceHolder1_AddtoCart']"
+	}
+	
+}

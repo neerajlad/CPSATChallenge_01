@@ -1,0 +1,15 @@
+{
+	"mnuTable": {
+		"DESKTOP_WEB": "linktext=Tables"
+	},
+	"lnkArsenal": {
+		"DESKTOP_WEB": "xpath=.//tbody[@class= 'tableBodyContainer isPL']//tr[@data-filtered-table-row-name='Arsenal']//a[@href='/clubs/1/Arsenal/overview']"
+	},
+	"imgLogo": {
+		"DESKTOP_WEB": "xpath=.//div[@class='fixedContainer']/a"
+	},
+	"acceptCookies": {
+		"DESKTOP_WEB": "xpath=.//div[@class='btn-primary cookies-notice-accept']"
+	}
+	
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	 <test name="Regression">
+		<parameter name="browserType" value="CHROME" />
+		<parameter name="url" value="https://www.meripustak.com/" />
+		<parameter name="projectName" value="meripustak" />
+		<classes>
+			<class name="com.testscripts.MeripustakTestPage" />
+		</classes>
+	</test> 
+	
+</suite>

@@ -1,0 +1,28 @@
+{
+	"mnuElectronics": {
+		"DESKTOP_WEB": "linktext=Electronics"
+	},
+	"drpColorFilter": {
+		"DESKTOP_WEB": "xpath=.//button[text()='Color']"
+	},
+	"drpValueAsBlack": {
+		"DESKTOP_WEB": "xpath=.//label[text()='Black']"
+	},
+	"lblBlackFilter": {
+		"DESKTOP_WEB": "xpath=.//label[text()='Applied Filters']/..//li[text()='Black']"
+	},
+	"imgFirstProduct": {
+		"DESKTOP_WEB": "xpath=.//div[@class='Row-sc-1mdnrs1-0 hiQTNt']/div[1]"
+	},
+	"imgFirstProductQuickView": {
+		"DESKTOP_WEB": "xpath=.//div[@class='Row-sc-1mdnrs1-0 hiQTNt']/div[1]//button[text()='QUICK VIEW']"
+	},
+	"lblProductTitle": {
+		"DESKTOP_WEB": "xpath=.//h1/a"
+	},
+	"btnNoThanks": {
+		"DESKTOP_WEB": "id=onesignal-popover-cancel-button"
+	}
+	
+	
+}

@@ -1,0 +1,9 @@
+{
+	"drpNoOfAttendee": {
+		"DESKTOP_WEB": "name=drpAttendee"
+	},
+	"tabAttendeeRows": {
+		"DESKTOP_WEB": "xpath=.//table[@id='Gridview1']//select"
+	}
+	
+}

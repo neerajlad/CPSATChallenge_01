@@ -1,0 +1,20 @@
+{
+	"icoSearch": {
+		"DESKTOP_WEB": "xpath=.//form[@id='searchForm']/div"
+	},
+	"txtSearch": {
+		"DESKTOP_WEB": "id=searchkey"
+	},
+	"btnGo": {
+		"DESKTOP_WEB": "id=searchBtn"
+	},
+	"rdoHighToLow": {
+		"DESKTOP_WEB": "xpath=.//input[@id='prcHTL_sort']/.."
+	},
+	"lstPriceValues": {
+		"DESKTOP_WEB": "xpath=.//div[@id='categoryProductList']/section//li[@class='offerPrices prize']"
+	},
+	"rdoHighToLowActive": {
+		"DESKTOP_WEB": "xpath=.//li[@class='spaceright radioSortBy activer']"
+	}
+}

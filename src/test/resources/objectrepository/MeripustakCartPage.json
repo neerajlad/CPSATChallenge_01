@@ -1,0 +1,6 @@
+{
+	"lblEmptyCartMessage": {
+		"DESKTOP_WEB": "xpath=.//table[@id='ContentPlaceHolder1_gvCartTable']//h4"
+	}
+	
+}
